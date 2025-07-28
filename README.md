@@ -1,12 +1,10 @@
-# Customers Charm Prediction - Machine Learning Model
+# Customers Churn Prediction - Machine Learning Model
 
 This repository contains a machine learning project that predicts customer charm based on various behavioral and demographic features. The goal is to assist businesses in identifying high-value or 'charmed' customers for targeted marketing and engagement strategies.
 
 ## 📂 Project Structure
 
-- `Customers Charm Prediction Machine Learning Model.ipynb`: Jupyter notebook containing data preprocessing, model training, evaluation, and predictions.
-- `requirements.txt`: List of Python dependencies.
-- `.gitignore`: Files and folders to be ignored by Git.
+- `Customers Churn Prediction Machine Learning Model.ipynb`: Jupyter notebook containing data preprocessing, model training, evaluation, and predictions.
 - `README.md`: Project overview and setup instructions.
 
 ## 🧠 Features of the Project
@@ -23,5 +21,5 @@ This repository contains a machine learning project that predicts customer charm
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/customers-charm-prediction.git
-cd customers-charm-prediction
+git clone https://github.com/amansawan/customers-churn-prediction.git
+cd customers-churn-prediction
